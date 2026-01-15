@@ -128,5 +128,32 @@ print("Therefore, string 2 returns True as a valid identifier.")
 # Number 32
 print("=====================================================")
 libraries = ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']
+result = "# ".join(libraries)
+print("Libraries:", result)
 
+# Number 33
+print("=====================================================")
+print("I am enjoying this challenge.\nI just wonder what is next.")
 
+# Number 34
+print("=====================================================")
+print("Name\tAge\tCountry\t\tCity")
+print("Sean\t20\tPhilippines\tDinalupihan")
+
+# Number 35
+print("=====================================================")
+radius = 10
+area = 3.14 * radius ** 2
+print(f'The area of a circle with radius {radius} is {area} meters square')
+
+# Number 36
+num1 = 8
+num2 = 6
+print("=====================================================")
+print("{} + {} = {}".format(num1, num2, num1+num2))
+print("{} - {} = {}".format(num1, num2, num1-num2))
+print("{} * {} = {}".format(num1, num2, num1*num2))
+print("{} / {} = {:.2f}".format(num1, num2, num1/num2))
+print("{} % {} = {}".format(num1, num2, num1%num2))
+print("{} // {} = {}".format(num1, num2, num1//num2))
+print("{} ** {} = {}".format(num1, num2, num1**num2))

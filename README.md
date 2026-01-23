@@ -1,4 +1,4 @@
-Challenging myself to learn python for 30 days
+Challenging myself to learn python for 30 - 100 days
 
 day 3 log
 
